@@ -1,5 +1,5 @@
 second-file added
-hello
+heldlo
 hohoho
-console.log('hello');
-console.log("happy");
+console.log('hello2');
+console.log("happy2");
